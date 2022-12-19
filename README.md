@@ -1,6 +1,13 @@
 # AICT_diffuse2normal
 Tool to Generate Normal Maps from Diffuse Textures
 
+File List:
+The following files were implemented and can be run in Google Colab.
+
+Pix2Pix High Epoch.ipynb - Implementation of Web Scraping and Pix2Pix Training and Normal Map Generation with 100 Epochs.
+Stable_Diffusion_2.ipynb - Implementation of Stable Diffusion 2 to Generate Textures.
+pix2pixHD.ipynb - Implementation of Pix2Pix HD Normal Map Generation.
+
 
 Links to Datasets:
 
