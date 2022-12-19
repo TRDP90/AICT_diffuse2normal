@@ -4,10 +4,10 @@ Tool to Generate Normal Maps from Diffuse Textures
 
 Links to Datasets:
 
-Textures Dataset:
+Textures Dataset (Testing + Training):
 https://drive.google.com/drive/folders/18UWbuD0u23lRqjB8V3WuCSpjzTwamCsd?usp=share_link
 
-Generated Stable Diffusion Dataset:
+Generated Stable Diffusion Dataset (Testing):
 https://drive.google.com/drive/folders/1OL1i3c4tQq5T51Dii9HRkh8mxbhHgWIX?usp=share_link
 
 Links to YouTube Videos:
